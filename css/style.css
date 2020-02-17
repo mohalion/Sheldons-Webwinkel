@@ -1,0 +1,13 @@
+.right-nav {
+    
+    position: relative;
+    z-index: 110;
+    display: flex;
+    height: 3.5rem;
+    list-style: none;
+    margin-bottom: 0;
+    padding: 0;
+    margin-left: auto;
+    font-size: .85714rem;
+    flex-wrap: nowrap;
+}
