@@ -11,3 +11,12 @@
     font-size: .85714rem;
     flex-wrap: nowrap;
 }
+.page-footer {
+   position: absolute;
+   bottom: 0;
+   width: 100%;
+
+
+}
+
+
